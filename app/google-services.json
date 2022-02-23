@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058818603208",
+    "project_id": "my1-s-fda4f",
+    "storage_bucket": "my1-s-fda4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058818603208:android:ef9d93470b58e2fb3c4dfd",
+        "android_client_info": {
+          "package_name": "com.example.my1s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058818603208-l69ciatgdsbhoej6ns41c5f9s85ap90o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkUu6jjausE64u69AY1bQU274sQpfUtTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058818603208-l69ciatgdsbhoej6ns41c5f9s85ap90o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
